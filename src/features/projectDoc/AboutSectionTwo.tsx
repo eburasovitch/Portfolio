@@ -1,4 +1,4 @@
-import { FaServer, FaNetworkWired, FaTerminal } from "react-icons/fa";
+import { FaServer, FaNetworkWired } from "react-icons/fa";
 import BackgroundDecorator from "../../components/background/BackgroundDecor";
 import SectionTitle from "../../components/common/SectionTitle";
 import { useEffect, useState } from "react";
