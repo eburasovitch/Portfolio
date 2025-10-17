@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+/* Masquer scrollbar pour Firefox */
+html {
+  scrollbar-width: none;
+}
+
+/* Masquer scrollbar pour IE et anciens Edge */
+body {
+  -ms-overflow-style: none;
+}
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-15px); } /* mouvement doux */
+  100% { transform: translateY(0px); }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}

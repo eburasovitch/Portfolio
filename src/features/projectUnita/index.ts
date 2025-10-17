@@ -1,0 +1,4 @@
+// src/features/projectMobileApp/index.ts
+export { default as AboutSectionOne } from "./AboutSectionOne";
+export { default as AboutSectionTwo } from "./AboutSectionTwo";
+export { default as AboutSectionThree } from "./AboutSectionThree";
