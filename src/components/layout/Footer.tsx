@@ -13,7 +13,7 @@ export default function Footer() {
         {/* Liens sociaux */}
         <div className="flex items-center gap-6">
           <a
-            href="https://www.linkedin.com/in/tonprofil"
+            href="https://www.linkedin.com/in/ewan-burasovitch-ab9696214/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-400 hover:text-blue-500 transition-colors"
@@ -22,7 +22,7 @@ export default function Footer() {
             <FaLinkedin size={24} />
           </a>
           <a
-            href="https://github.com/tonprofil"
+            href="https://github.com/eburasovitch"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-400 hover:text-gray-200 transition-colors"
@@ -31,7 +31,7 @@ export default function Footer() {
             <FaGithub size={24} />
           </a>
           <a
-            href="mailto:ewan@example.com"
+            href="mailto:burasovitch1e@gmail.com"
             className="text-gray-400 hover:text-red-400 transition-colors"
             aria-label="Email"
           >

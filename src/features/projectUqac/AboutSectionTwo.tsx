@@ -39,7 +39,7 @@ const AboutSectionTwo = () => {
                             </ul>
                             <div className="flex flex-col justify-center gap-10 mt-12">
                                 <a
-                                    href="https://github.com/ewanburasovitch/PyAdverseSearch"
+                                    href="https://github.com/PrKBouchard/PyAdverseSearch"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="inline-flex items-center gap-3 text-lg font-semibold text-black dark:text-gray-300 hover:text-black dark:hover:text-white transition"
@@ -48,7 +48,7 @@ const AboutSectionTwo = () => {
                                     Voir le code sur GitHub
                                 </a>
                                 <a
-                                    href="/BURASOVITCH_EWAN_RAPPORT_DE_STAGE.pdf"
+                                    href="/pdf/BURASOVITCH_EWAN_rapport_de_stage (1).pdf"
                                     download
                                     className="inline-flex items-center gap-3 text-lg font-semibold text-black dark:text-gray-300 hover:text-black dark:hover:text-white transition"
                                 >

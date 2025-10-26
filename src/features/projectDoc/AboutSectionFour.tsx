@@ -26,7 +26,7 @@ const AboutSectionFour = () => {
               Travail sur la communication, les besoins utilisateurs et la modélisation de la solution.
             </p>
             <a
-              href="/Rapport_Gestion.pdf"
+              href="/pdf/Rapport_Gestion.pdf"
               download
               className="inline-block px-6 py-3 rounded-xl bg-gradient-to-r from-[#5BAA9C] to-[#4a998d] text-white font-semibold shadow-lg transform transition-all duration-300 hover:scale-105 hover:bg-[#5AE4AA] hover:shadow-2xl"
             >
@@ -46,7 +46,7 @@ const AboutSectionFour = () => {
               Compréhension du rôle des données et des enjeux environnementaux.
             </p>
             <a
-              href="/Rapport_Gestion.pdf"
+              href="/pdf/CompteRenduEconomiqueEcologique.pdf"
               download
               className="inline-block px-6 py-3 rounded-xl bg-gradient-to-r from-[#5BAA9C] to-[#4a998d] text-white font-semibold shadow-lg transform transition-all duration-300 hover:scale-105 hover:bg-[#5AE4AA] hover:shadow-2xl"
             >

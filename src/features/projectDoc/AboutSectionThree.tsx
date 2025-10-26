@@ -21,9 +21,17 @@ const devProjects = [
     icon: <FaCogs />,
     title: "Développement Web – R1.02",
     desc: "Création d’un site web complet : zoning, wireframes, charte graphique et prototype. Application des bonnes pratiques de conception front-end et accessibilité.",
-    link: "/Rapport_Web.pdf",
+    link: "/pdf/Rapport_Web_Wankel.pdf",
     gradient: "from-[#FCEED2]/50 to-transparent",
   },
+  {
+    icon: <FaCogs />,
+    title: "SAE 2.05 – Gestion de projet",
+    desc: "Rapport complet sur la conduite du projet Euskal Laguna : étude de l’existant, cahier des charges fonctionnel, planification, et analyse budgétaire.",
+    link: "/RapportFinalProjet11.pdf",
+    gradient: "from-[#DCE9F5]/50 to-transparent",
+  },
+
 ];
 
 const AboutSectionThree = () => {

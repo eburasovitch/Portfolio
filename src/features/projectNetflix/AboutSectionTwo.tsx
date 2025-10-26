@@ -51,14 +51,35 @@ const AboutSectionTwo = () => {
                 </p>
               </div>
 
-              <div className="mb-1">
+              <div className="mb-6">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl">
                   Stack technique moderne
                 </h3>
-                <p className="text-base leading-relaxed text-gray-700 dark:text-gray-300">
+                <p className="text-base leading-relaxed text-gray-700 dark:text-gray-300 mb-6">
                   Le projet s’appuie sur Next.js pour le rendu SSR, TailwindCSS pour le design réactif,
                   Prisma pour la gestion des données et MongoDB pour le stockage des utilisateurs et vidéos.
                 </p>
+
+                {/* Boutons GitHub et Projet */}
+                <div className="flex gap-4">
+                  <a
+                    href="https://github.com/eburasovitch/Projet_web"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="px-4 py-2 rounded-md bg-[#5BAA9C] text-white font-medium shadow hover:opacity-90 hover:bg-[#4a998d] transition"
+                  >
+                    GitHub
+                  </a>
+
+                  <a
+                    href="https://projet-web-kappa.vercel.app/auth"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="px-4 py-2 rounded-md bg-[#5BAA9C] text-white font-medium shadow hover:opacity-90 hover:bg-[#4a998d] transition"
+                  >
+                    Voir le projet
+                  </a>
+                </div>
               </div>
             </div>
           </div>

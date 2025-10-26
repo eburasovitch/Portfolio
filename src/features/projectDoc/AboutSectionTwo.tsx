@@ -36,7 +36,7 @@ const AboutSectionTwo = () => {
               <p className="text-gray-700 dark:text-gray-300 mb-4">
                 Étude complète des technologies de virtualisation depuis les années 1960 jusqu’à aujourd’hui.
               </p>
-              <a href="/Rapport_OS.pdf" download className="text-[#5BAA9C] font-semibold hover:underline">
+              <a href="/pdf/6630603003_Rapport.pdf" download className="text-[#5BAA9C] font-semibold hover:underline">
                 Télécharger le rapport
               </a>
             </div>
@@ -48,7 +48,7 @@ const AboutSectionTwo = () => {
               <p className="text-gray-700 dark:text-gray-300 mb-4">
                 Mise en place d’un réseau complet : routage, DHCP, FTP et capture d’analyse via Wireshark.
               </p>
-              <a href="/Rapport_Reseau.pdf" download className="text-[#5BAA9C] font-semibold hover:underline">
+              <a href="/pdf/Installation2services_Réseau.pdf" download className="text-[#5BAA9C] font-semibold hover:underline">
                 Télécharger le rapport
               </a>
             </div>

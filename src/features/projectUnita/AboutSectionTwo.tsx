@@ -1,4 +1,4 @@
-import { FaGitlab, FaFileDownload } from "react-icons/fa";
+import { FaFileDownload } from "react-icons/fa";
 import BackgroundDecorator from "../../components/background/BackgroundDecor";
 
 const AboutSectionTwo = () => {
@@ -49,17 +49,7 @@ const AboutSectionTwo = () => {
 
               <div className="flex gap-6 mt-8">
                 <a
-                  href="https://gitlab.univ-pau.fr/ton-projet-unita"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center gap-3 text-lg font-semibold text-black dark:text-gray-300 hover:text-black dark:hover:text-white transition"
-                >
-                  <FaGitlab size={28} />
-                  Voir le projet sur GitLab
-                </a>
-
-                <a
-                  href="/BURASOVITCH_EWAN_RAPPORT_DE_STAGE.pdf"
+                  href="/pdf/BURASOVITCH_EWAN_RAPPORT_DE_STAGE.pdf"
                   download
                   className="inline-flex items-center gap-3 text-lg font-semibold text-black dark:text-gray-300 hover:text-black dark:hover:text-white transition"
                 >

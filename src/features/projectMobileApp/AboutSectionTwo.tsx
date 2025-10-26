@@ -81,7 +81,7 @@ const AboutSectionTwo = () => {
               {/* 🔗 Lien GitHub */}
               <div className="mt-8">
                 <a
-                  href="https://github.com/ton-nom-utilisateur/ton-projet"
+                  href="https://github.com/eburasovitch/Project-Kotlin-UQAC/tree/tp3"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-3 text-lg font-semibold text-[#5BAA9C] hover:text-[#4a998d] dark:text-gray-300 dark:hover:text-white transition"
